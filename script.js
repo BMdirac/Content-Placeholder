@@ -9,6 +9,7 @@ const animated_bgs = document.querySelectorAll('.animated-bg')
 const animated_bg_texts = document.querySelectorAll('.animated-bg-text')
 
 setTimeout(getData, 2500)
+
 // after two and half seconds all this content gets inserted
 
 function getData() {
